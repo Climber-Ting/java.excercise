@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2b7e027-81d5-430c-9aba-a2fa5689d14c" name="Default Changelist" comment="" />
+    <list default="true" id="d2b7e027-81d5-430c-9aba-a2fa5689d14c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuessNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Printf99.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintfNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintfX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShuiXianHua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumFenShu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,46 +28,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Shu9.java">
+        <entry file="file://$PROJECT_DIR$/src/Login.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="21" column="1" selection-start-line="7" selection-end-line="22" />
+            <state relative-caret-position="248">
+              <caret line="33" column="1" lean-forward="true" selection-start-line="7" selection-end-line="33" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Year.java">
+        <entry file="file://$PROJECT_DIR$/src/PrintfNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="14" column="1" selection-start-line="6" selection-end-line="14" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sushu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IfSushu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="22" column="1" selection-start-line="7" selection-end-line="23" />
+            <state relative-caret-position="326">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="6" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/PrintfAge.java">
+        <entry file="file://$PROJECT_DIR$/src/Printf99.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="6" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="351">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="6" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -68,6 +63,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -76,6 +74,16 @@
         <option value="$PROJECT_DIR$/src/Sushu.java" />
         <option value="$PROJECT_DIR$/src/IfSushu.java" />
         <option value="$PROJECT_DIR$/src/PrintfAge.java" />
+        <option value="$PROJECT_DIR$/src/PrintfX.java" />
+        <option value="$PROJECT_DIR$/src/GuessNum.java" />
+        <option value="$PROJECT_DIR$/src/ShuiXianHua.java" />
+        <option value="$PROJECT_DIR$/src/SumFenShu.java" />
+        <option value="$PROJECT_DIR$/src/MaxDivisor.java" />
+        <option value="$PROJECT_DIR$/src/NumBit.java" />
+        <option value="$PROJECT_DIR$/src/BitPrint.java" />
+        <option value="$PROJECT_DIR$/src/Login.java" />
+        <option value="$PROJECT_DIR$/src/PrintfNum.java" />
+        <option value="$PROJECT_DIR$/src/Printf99.java" />
       </list>
     </option>
   </component>
@@ -99,11 +107,14 @@
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,16 +131,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/JavaCode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
@@ -144,37 +155,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintfAge">
-    <configuration name="IfSushu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IfSushu" />
+  <component name="RunManager" selected="Application.Printf99">
+    <configuration name="BitPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BitPrint" />
       <module name="20201205" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintfAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintfAge" />
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Login" />
       <module name="20201205" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shu9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shu9" />
+    <configuration name="NumBit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumBit" />
       <module name="20201205" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sushu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sushu" />
+    <configuration name="Printf99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Printf99" />
       <module name="20201205" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Year" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year" />
+    <configuration name="PrintfNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintfNum" />
       <module name="20201205" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -182,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintfAge" />
-        <item itemvalue="Application.IfSushu" />
-        <item itemvalue="Application.Sushu" />
-        <item itemvalue="Application.Year" />
-        <item itemvalue="Application.Shu9" />
+        <item itemvalue="Application.Printf99" />
+        <item itemvalue="Application.PrintfNum" />
+        <item itemvalue="Application.Login" />
+        <item itemvalue="Application.BitPrint" />
+        <item itemvalue="Application.NumBit" />
       </list>
     </recent_temporary>
   </component>
@@ -203,16 +214,17 @@
       <workItem from="1607138483549" duration="2648000" />
       <workItem from="1607145435866" duration="345000" />
       <workItem from="1607145838772" duration="1496000" />
+      <workItem from="1607155172315" duration="8240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4489000" />
+    <option name="totallyTimeSpent" value="12729000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -220,9 +232,9 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32879046" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39863715" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32935154" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3088737" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39761093" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -255,6 +267,12 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SumFenShu.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -282,15 +300,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/IfSushu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="572">
           <caret line="22" column="1" selection-start-line="7" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PrintfAge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="6" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="378">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrintfX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="37" column="1" lean-forward="true" selection-start-line="21" selection-end-line="37" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GuessNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="7" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ShuiXianHua.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="8" selection-start-line="8" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SumFenShu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="7" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaxDivisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="6" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumBit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="6" selection-start-line="6" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BitPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" selection-start-line="7" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="7" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrintfNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="6" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Printf99.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="6" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
