@@ -8,7 +8,13 @@ import java.util.*;
 public class GuessNum {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
-        int ran=(int)Math.random()*100;
+
+        //方法1
+        //int ran=(int)Math.random()*100;
+        //方法2
+        Random random=new Random();  //括号里是随机种子，如果写入值，每次生成的随机数都相同
+        int ran=random.nextInt(100)+1;
+
         boolean flag=true;
         while(flag){
             int in=input.nextInt();
