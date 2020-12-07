@@ -7,13 +7,20 @@ import java.util.*;
 public class FindNum {
     public static void main(String[] args) {
         int[] arr={2,3,3,2,4,5,1,4,5,6,6};
-        int[] cpy={0};
-        int flag = 0;
-        int tmp=0;
+        int[] cpy=new int[10];
+        int flag=1;
+        int n=0;
         for(int i=0;i<arr.length;i++){
-
-            for(int j=0;i<arr.length;j++){
-               arr[j]=arr[i];
+            cpy[i]=arr[i];
+            for(int j=0;j<i-1;j++){
+               if(arr[i]==cpy[j]){
+                   cpy[i]=0;
+               }
+            }
+        }
+        for(int i=0;i<arr.length;i++) {
+            if(arr[i]!=0){
+                System.out.println(arr[i]+" ");
             }
         }
     }

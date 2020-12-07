@@ -2,7 +2,7 @@ import java.util.*;
 /*
     斐波那契数
     作业内容
-    求斐波那契数列的第n项。(迭代实现)
+    求斐波那契数列的第n项。(迭代实现)(递归实现)
  */
 
 public class Feibonaqi {
