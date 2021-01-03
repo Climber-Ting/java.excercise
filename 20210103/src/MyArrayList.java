@@ -17,6 +17,7 @@ public class MyArrayList {
         for(int i=0;i<this.usedSize;i++){
             System.out.print(this.elem[i]+" ");
         }
+        System.out.println();
     }
     //判断顺序表是否为满
     private boolean isFull(){
@@ -40,7 +41,7 @@ public class MyArrayList {
         this.usedSize++;
     }
     //默认插入到数组的最后
-    public void add2(int data) {
+    public void add(int data) {
         if(isFull()){
             System.out.println("顺序表已满！");
         }
@@ -100,4 +101,24 @@ public class MyArrayList {
     public void clear(){
         this.usedSize = 0;
     }
+
+    public static void main(String[] args) {
+        MyArrayList arr1=new MyArrayList();
+        arr1.add(10);
+        arr1.add(20);
+        arr1.add(30);
+        arr1.add(40);
+        arr1.add(50);
+        arr1.display();
+        System.out.println(arr1.search(30));
+        System.out.println(arr1.contains(70));
+        System.out.println(arr1.getPos(20));
+        arr1.setPos(0,80);
+        arr1.display();
+        arr1.remove(40);
+        arr1.display();
+        arr1.clear();
+        arr1.display();
+    }
 }
+
