@@ -8,7 +8,7 @@ class Node{
         //默认空构造函数
     }
     public Node(int data){
-        //数据域赋值的构造函数
+        //数据域自由赋值的构造函数
         this.data=data;
     }
 }
@@ -206,20 +206,31 @@ public class MyLinkedList {
     }
 
     //链表逆置
-    public Node reveseList() {
+//    public Node reveseList() {
+//        Node cur = this.head;
+//        Node pre = null;
+//        Node newHead = null;
+//        while (cur != null) {
+//            Node curNext = cur.next;
+//            if (curNext == null) {
+//                newHead = cur;
+//            }
+//            cur.next = pre;
+//            pre = cur;
+//            cur = curNext;
+//        }
+//        return newHead;
+//    }
+    public Node reveseList() {   //头插法逆置
         Node cur = this.head;
         Node pre = null;
-        Node newHead = null;
         while (cur != null) {
             Node curNext = cur.next;
-            if (curNext == null) {
-                newHead = cur;
-            }
             cur.next = pre;
             pre = cur;
             cur = curNext;
         }
-        return newHead;
+        return pre;
     }
 
     //求一个链表的中间结点，如果有偶数个结点，返回中间的第二个结点
@@ -243,4 +254,24 @@ public class MyLinkedList {
         }
         return slow;
     }
+    //找到链表中倒数第k个结点
+    public Node FindKthToTail(int k){
+        if(this.head==null||k<=0){
+            return null;
+        }
+        Node fast=this.head;
+        Node slow=this.head;
+        for(int i=1;i<k;i++){
+            fast=fast.next;
+            if(fast==null){
+                return null;
+            }
+        }
+        while(fast.next!=null){
+            slow=slow.next;
+            fast=fast.next;
+        }
+        return slow;
+    }
+
 }
