@@ -10,6 +10,7 @@ class Node{
         this.data=data;
     }
 }
+
 public class NodeList {
     Node head;
 
