@@ -244,7 +244,7 @@ public class MyLinkedList {
 //        }
 //        return cur;
 //    }
-
+    //返回链表的中间结点，如果有偶数个结点，返回中间的第二个结点
     public Node MiddleNode() {
         Node fast=this.head;
         Node slow=this.head;
@@ -273,5 +273,6 @@ public class MyLinkedList {
         }
         return slow;
     }
+
 
 }
