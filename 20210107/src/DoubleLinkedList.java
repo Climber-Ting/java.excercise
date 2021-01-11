@@ -89,19 +89,61 @@ public class DoubleLinkedList {
 
     //查找是否包含关键字key是否在单链表当中
     public boolean contains(int key) {
+        ListNode cur = this.head;
+        while (cur != null) {
+            if(cur.val == key) {
+                return true;
+            }
+            cur = cur.next;
+        }
         return false;
     }
     //删除第一次出现关键字为key的节点
     public void remove(int key) {
-
+        ListNode cur = this.head;
+        while (cur != null) {
+            if(cur.val == key) {
+                if(cur == this.head) {
+                    this.head = this.head.next;
+                    this.head.prev = null;
+                }else if(cur == this.last) {
+                    cur.prev.next = null;
+                    this.last = this.last.prev;
+                }else {
+                    cur.prev.next = cur.next;
+                    cur.next.prev = cur.prev;
+                }
+                return;
+            }
+            cur = cur.next;
+        }
     }
     //删除所有值为key的节点
     public void removeAllKey(int key) {
-
+        ListNode cur = this.head;
+        while (cur != null) {
+            if(cur.val == key) {
+                if(cur == this.head) {
+                    //头结点
+                    this.head = this.head.next;
+                    this.head.prev = null;
+                }else {
+                    cur.prev.next = cur.next;
+                    if(cur.next != null) {
+                        cur.next.prev = cur.prev;
+                    }else {
+                        //cur.next == null
+                        this.last = this.last.prev;
+                    }
+                }
+            }
+            cur = cur.next;
+        }
     }
 
     public void clear() {
-
+        this.head = null;
+        this.last = null;
     }
 }
 
