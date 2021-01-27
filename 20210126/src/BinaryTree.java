@@ -18,6 +18,7 @@ public class BinaryTree {
      * 当前只是权宜之计
      * @return
      */
+
     public static void main(String[] args) {
         BinaryTree binaryTree =new BinaryTree();
         BTNode root=binaryTree.createTree();
@@ -48,6 +49,7 @@ public class BinaryTree {
         else
             System.out.println("没找到！");
 
+        binaryTree.levelOrderTraversal(root);
     }
     public BTNode createTree() {
         BTNode A = new BTNode('A');
@@ -166,6 +168,21 @@ public class BinaryTree {
         if(right!=null&&right.val==val)
             return right;
         return null;
+    }
+    public void levelOrderTraversal(BTNode root){
+        if(root==null)
+            return;
+        Deque<BTNode> list=new LinkedList<>();
+        list.offer(root);
+        while(!list.isEmpty()){
+            BTNode node=list.poll();
+            System.out.print(node.val+" ");
+            if (node.left!=null)
+                list.add(node.left);
+            if (node.right!=null)
+                list.add(node.right);
+        }
+        System.out.println();
     }
 }
 
