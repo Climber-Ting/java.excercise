@@ -42,6 +42,12 @@ public class BinaryTree {
         System.out.println(binaryTree.getKLevelSize(root, 3));
         System.out.println(binaryTree.getHeight(root));
 
+        BTNode ret=binaryTree.find(root,'M');
+        if(ret!=null)
+            System.out.println(ret.val);
+        else
+            System.out.println("没找到！");
+
     }
     public BTNode createTree() {
         BTNode A = new BTNode('A');
@@ -148,8 +154,18 @@ public class BinaryTree {
     // 查找 val 所在结点，没有找到返回 null
     // 按照 根 -> 左子树 -> 右子树的顺序进行查找
     // 一旦找到，立即返回，不需要继续在其他位置查找
-    BTNode find(BTNode root, int val){
-        return root;
+    BTNode find(BTNode root, char val){
+        if(root==null)
+            return null;
+        if(root.val==val)
+            return root;
+        BTNode left=find(root.left,val);
+        if(left!=null&&left.val==val)
+            return left;
+        BTNode right=find(root.right,val);
+        if(right!=null&&right.val==val)
+            return right;
+        return null;
     }
 }
 
