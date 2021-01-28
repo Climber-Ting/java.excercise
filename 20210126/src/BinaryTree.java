@@ -50,6 +50,7 @@ public class BinaryTree {
             System.out.println("没找到！");
 
         binaryTree.levelOrderTraversal(root);
+        System.out.println(binaryTree.isCompleteTree(root));
     }
     public BTNode createTree() {
         BTNode A = new BTNode('A');
@@ -77,6 +78,32 @@ public class BinaryTree {
         System.out.print(root.val);
         preOrderTraversal(root.left);
         preOrderTraversal(root.right);
+    }
+//判断一颗二叉树是不是完全二叉树
+    boolean isCompleteTree(BTNode root){
+        if(root==null)
+            return true;
+        Deque<BTNode> list=new LinkedList<>();
+        list.offer(root);
+        while(!list.isEmpty()) {
+            BTNode cur = list.poll();
+            if (cur != null) {
+                list.offer(cur.left);
+                list.offer(cur.right);
+            } else {
+                break;
+            }
+        }
+        while(!list.isEmpty()){
+            BTNode isnull=list.poll();
+            if (isnull==null){
+                continue;
+            }
+            else{
+                return false;
+            }
+        }
+        return true;
     }
 
     // 中序遍历

@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b9c2c44-bddc-4fbe-a126-8c0bc798e202" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../20210127/src/LevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20210127/src/WidthOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/20210128.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/src/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/src/IsCompleteTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/src/LowestCommonAncestor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/20210126/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/20210126/BinaryTree.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../20210127/src/IsBalanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20210127/src/IsBalanced.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="166">
+              <caret line="117" column="42" lean-forward="true" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -33,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/IncreasingBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="221">
+              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -80,8 +81,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="679" />
+    <option name="y" value="2" />
     <option name="width" value="699" />
     <option name="height" value="744" />
   </component>
@@ -161,16 +162,19 @@
       <workItem from="1611709341756" duration="1287000" />
       <workItem from="1611739829938" duration="569000" />
       <workItem from="1611743538820" duration="2657000" />
+      <workItem from="1611797305079" duration="80000" />
+      <workItem from="1611798034708" duration="2632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19618000" />
+    <option name="totallyTimeSpent" value="22330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19440243" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20045386" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -179,7 +183,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39323843" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22696246" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -223,24 +227,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/src/Traversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="468">
+          <caret line="18" column="60" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/IncreasingBST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="221">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Traversal.java">
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="60" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="60" />
+        <state relative-caret-position="166">
+          <caret line="117" column="42" lean-forward="true" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="42" />
         </state>
       </provider>
     </entry>
