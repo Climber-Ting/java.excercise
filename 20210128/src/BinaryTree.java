@@ -13,6 +13,8 @@ public class BinaryTree {
         BinaryTree binaryTree=new BinaryTree();
         BTNode root=binaryTree.createTree();
         binaryTree.inOrderTraversal(root);
+        binaryTree.preOrderTraversal(root);
+        binaryTree.postOrderTraversal(root);
     }
     public BTNode createTree() {
         BTNode A = new BTNode('A');
@@ -32,13 +34,29 @@ public class BinaryTree {
         C.right = G;
         return A;
     }
+    //非递归前序遍历
+    void preOrderTraversal(BTNode root) {
+        if(root==null) return;
+        Stack<BTNode> stack=new Stack<>();
+        BTNode cur=root;
+        //一开始栈里没有元素，只把cur指向了root，因此循环条件里加||cur!=null
+        while(!stack.empty()||cur!=null){
+            while(cur!=null){
+                stack.push(cur);
+                System.out.print(cur.val+" ");
+                cur=cur.left;
+            }
+            BTNode top=stack.pop();
+            cur=top.right;
+        }
+        System.out.println();
+    }
+    //非递归中序遍历
     void inOrderTraversal(BTNode root) {
         if(root==null) return;
         Stack<BTNode> stack=new Stack<>();
-
         BTNode cur=root;
         while(cur!=null||!stack.isEmpty()){
-
             while(cur!=null){
                 stack.push(cur);
                 cur=cur.left;
@@ -47,7 +65,9 @@ public class BinaryTree {
             System.out.print(top.val+" ");
             cur=top.right;
         }
+        System.out.println();
     }
+    //非递归后序遍历
     void postOrderTraversal(BTNode root) {
         if(root==null) return;
         Stack<BTNode> stack=new Stack<>();
@@ -69,6 +89,7 @@ public class BinaryTree {
                 cur=top.right;
             }
         }
+        System.out.println();
     }
 
 }
