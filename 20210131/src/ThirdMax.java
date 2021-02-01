@@ -23,11 +23,11 @@ public class ThirdMax {
 
     }
     public static int thirdMax(int[] nums) {
-        
+
         PriorityQueue<Integer> qu=new PriorityQueue<>();
 
         for(int i=0;i<nums.length;i++){
-            if ( i<3 ){
+            if ( qu.size()<3 ){
                 qu.offer(nums[i]);
             }
             else{
