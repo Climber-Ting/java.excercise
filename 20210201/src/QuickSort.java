@@ -1,19 +1,43 @@
 import java.util.*;
 /*
 快速排序：分治思想
-时间复杂度：最好情况O(nlogn)  最坏情况O(n^2)
+效率最高：每次将待排序的元素均匀地划分
+时间复杂度：最好情况O(nlogn)  最坏情况O(n^2) (有序情况是最坏情况，即越有序越慢)
 空间复杂度：O(logn)
 稳定性：不稳定
  */
 public class QuickSort {
-    public static void quick(){
-
+    public static void main(String[] args) {
+        int[] array={8,2,4,7,9,13,25,3,5,0,67,23,12,6,1};
+        quick(array);
+        System.out.println(Arrays.toString(array));
     }
-
+    public static void quick(int[] array){
+        quickSort(array,0,array.length-1);
+    }
+    public static void swap(int[] array,int k,int i) {
+        int tmp = array[k];
+        array[k] = array[i];
+        array[i] = tmp;
+    }
+    public static void medianOfThree(int[] array,int low,int high) {
+        int mid = (low+high)/2;
+        //array[mid] <= array[low] <= array[end]
+        if(array[low] < array[mid]) {
+            swap(array,low,mid);
+        }//array[mid] <= array[low]
+        if(array[low] > array[high]) {
+            swap(array,low,high);
+        }//array[low] <= array[high]
+        if(array[mid] > array[high]) {
+            swap(array,mid,high);
+        }//array[mid] <= array[high]
+    }
     public static void quickSort(int[] array,int low,int high){
         if (low<high){
-
-            int piv=pivot(array,0,high);
+            medianOfThree(array,low,high);
+            //在这之前优化，即优化选基准的方法
+            int piv=pivot(array,low,high);
             quickSort(array,0,piv-1);
             quickSort(array,piv+1,high);
         }
