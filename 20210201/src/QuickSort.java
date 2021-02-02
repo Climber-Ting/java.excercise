@@ -12,8 +12,12 @@ public class QuickSort {
         quick(array);
         System.out.println(Arrays.toString(array));
     }
+    public static void quickSortFeidigui(int[] array,int low,int high){
+
+    }
     public static void quick(int[] array){
         quickSort(array,0,array.length-1);
+
     }
     public static void swap(int[] array,int k,int i) {
         int tmp = array[k];
@@ -33,7 +37,24 @@ public class QuickSort {
             swap(array,mid,high);
         }//array[mid] <= array[high]
     }
+    public static void insertSort(int[] array,int low,int high){
+        int i,j;
+        for (i=low;i<high;i++){
+            int temp=array[i];
+            for (j=i-1;j>=low;j--){
+                if (array[j]>temp){
+                    array[j+1]=array[j];
+                }else {
+                    break;
+                }
+            }
+            array[j+1]=temp;
+        }
+    }
     public static void quickSort(int[] array,int low,int high){
+        if(high-low+1<50){
+            insertSort(array,low,high);
+        }
         if (low<high){
             medianOfThree(array,low,high);
             //在这之前优化，即优化选基准的方法
