@@ -71,6 +71,73 @@ public class BinarySearchTree {
     }
 
     public void remove(int val) {
-
+        if(root == null) return;
+        BSNode cur = root;
+        BSNode parent = null;
+        while (cur != null) {
+            if(cur.val == val) {
+                removeNode(parent,cur,val);
+                return;
+            }else if(cur.val < val) {
+                parent = cur;
+                cur = cur.right;
+            }else {
+                parent = cur;
+                cur = cur.left;
+            }
+        }
     }
+
+    /**
+     * 删除二叉搜索树的节点
+     * @param parent
+     * @param cur
+     * @param val
+     */
+    public void removeNode(BSNode parent,BSNode cur,int val) {
+        if(cur.left == null) {
+            if (cur==root){
+                root=cur.right;
+                return;
+            }
+            else if (cur==parent.left){
+                parent.left=cur.right;
+                return;
+            }
+            else {
+                parent.right=cur.right;
+                return;
+            }
+
+        }else if(cur.right == null) {
+            if(cur==root){
+                root=cur.left;
+                return;
+            }
+            else if (cur==parent.left){
+                parent.left=cur.left;
+                return;
+            }
+            else {
+                parent.right=cur.left;
+                return;
+            }
+        }else {
+            //
+            BSNode targetParent = cur;
+            BSNode target = cur.right;
+            while (target.left != null) {
+                targetParent = target;
+                target = target.left;
+            }
+            //target指向的节点就是 右边的最小值
+            cur.val = target.val;
+            if(target == targetParent.left) {
+                targetParent.left = target.right;
+            }else {
+                targetParent.right = target.right;
+            }
+        }
+    }
+
 }
