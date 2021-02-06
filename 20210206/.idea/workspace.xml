@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="736a6ad0-2ab7-4568-aef6-e2bf39dde45c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../20201205/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/20201205.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/out/production/20201205/BitPrint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/out/production/20201205/GuessNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/out/production/20201205/IfSushu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/out/production/20201205/Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/out/production/20201205/MaxDivisor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/out/production/20201205/NumBit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/out/production/20201205/Printf99.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/out/production/20201205/PrintfAge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/out/production/20201205/PrintfNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/out/production/20201205/PrintfX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/out/production/20201205/Shu9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/out/production/20201205/ShuiXianHua.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/out/production/20201205/SumFenShu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/out/production/20201205/Sushu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/out/production/20201205/Year.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/src/BitPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/src/GuessNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/src/IfSushu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/src/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/src/MaxDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/src/NumBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/src/Printf99.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/src/PrintfAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/src/PrintfNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/src/PrintfX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/src/Shu9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/src/ShuiXianHua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/src/SumFenShu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/src/Sushu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201205/src/Year.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201206/笔记.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/20201207.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/out/production/20201207/FacN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/out/production/20201207/FacNum10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/out/production/20201207/FacSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/out/production/20201207/Feibonaqi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/out/production/20201207/FindNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/out/production/20201207/JiOu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/out/production/20201207/META-INF/20201207.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/out/production/20201207/Max.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/out/production/20201207/OverloadMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/out/production/20201207/OverloadSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/out/production/20201207/PrintNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/out/production/20201207/SumOfNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/src/FacN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/src/FacNum10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/src/FacSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/src/Feibonaqi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/src/FindNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/src/JiOu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/src/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/src/OverloadMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/src/OverloadSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/src/PrintNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201207/src/SumOfNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201209/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201209/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201209/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201209/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201209/20201209.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201209/out/production/20201209/Find.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201209/out/production/20201209/Sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201209/src/Find3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201209/src/Sum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201209/上课笔记.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201211/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201211/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201211/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201211/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201211/20201211.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201211/out/production/20201211/PrinftArr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201211/out/production/20201211/avg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201211/out/production/20201211/nameArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201211/out/production/20201211/sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201211/out/production/20201211/transform.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201211/src/PrinftArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201211/src/avg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201211/src/nameArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201211/src/sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201211/src/transform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201213/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201213/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201213/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201213/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201213/20201213.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201213/20201213笔记.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201213/out/production/20201213/avg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201213/out/production/20201213/find.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201213/out/production/20201213/find1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201213/out/production/20201213/isUp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201213/out/production/20201213/max.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201213/src/avg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201213/src/find.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201213/src/find1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201213/src/isUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201213/src/max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201213/~$201213笔记.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201214/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201214/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201214/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201214/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201214/20201214.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201214/out/production/20201214/CopyArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201214/out/production/20201214/MyToString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201214/out/production/20201214/binarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201214/out/production/20201214/bubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201214/out/production/20201214/checkSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201214/src/CopyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201214/src/MyToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201214/src/binarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201214/src/bubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201214/src/checkSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201216/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201216/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201216/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201216/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201216/20201216.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201216/out/production/20201216/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201216/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201222/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201222/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201222/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201222/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201222/20201222.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201222/out/production/20201222/FindSub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201222/out/production/20201222/MaxDivMinMul.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201222/src/FindSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201222/src/MaxDivMinMul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201223/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201223/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201223/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201223/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201223/20201223.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201223/out/production/20201223/ChangNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201223/out/production/20201223/Prime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201223/src/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201223/src/ChangNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20201223/src/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210103/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210103/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210103/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210103/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210103/java.exercise20210103.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210103/out/production/java.exercise20210103/JiOu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210103/out/production/java.exercise20210103/MyArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210103/out/production/java.exercise20210103/SwapArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210103/src/JiOu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210103/src/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210103/src/SwapArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210104/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210104/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210104/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210104/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210104/20210104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210104/out/production/20210104/MyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210104/out/production/20210104/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210104/out/production/20210104/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210104/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210104/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210104/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210104/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210104/src/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210104/src/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210104/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210106/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210106/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210106/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210106/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210106/20210106.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210106/out/production/20210106/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210106/out/production/20210106/NodeList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210106/out/production/20210106/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210106/src/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210106/src/NodeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210106/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210106/src/TestListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210107/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210107/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210107/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210107/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210107/20210107.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210107/out/production/20210107/DoubleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210107/out/production/20210107/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210107/out/production/20210107/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210107/src/DoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210107/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210111/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210111/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210111/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210111/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210111/20210111.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210111/src/DetectCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210111/src/GetIntersectionNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210111/src/HasCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210111/src/RotateRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210111/src/chkPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210113/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210113/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210113/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210113/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210113/20210113.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210113/out/production/20210113/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210113/out/production/20210113/Bird.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210113/out/production/20210113/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210113/out/production/20210113/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210113/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210117/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210117/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210117/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210117/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210117/20210117.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210117/out/production/20210117/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210117/out/production/20210117/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210117/out/production/20210117/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210117/out/production/20210117/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210117/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210117/src/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210118/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210118/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210118/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210118/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210118/20210118.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210118/out/production/20210118/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210118/out/production/20210118/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210118/out/production/20210118/TestClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210118/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210118/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210118/src/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210118/src/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/20210119.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/out/production/20210119/Example.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/out/production/20210119/META-INF/20210119.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/out/production/20210119/MyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/out/production/20210119/ReverseChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/out/production/20210119/SystemUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/out/production/20210119/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/out/production/20210119/canConstruct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/out/production/20210119/myException/PasswordException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/out/production/20210119/myException/TestDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/out/production/20210119/myException/UserException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/out/production/20210119/solution/IsPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/out/production/20210119/solution/canConstruct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/src/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/src/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/src/ReverseChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/src/SystemUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/src/canConstruct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/src/myException/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/src/solution/IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210119/src/solution/canConstruct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210120/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210120/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210120/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210120/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210120/20210120.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210120/out/production/20210120/CountSegments.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210120/out/production/20210120/LengthOfLastWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210120/out/production/20210120/Merge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210120/out/production/20210120/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210120/out/production/20210120/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210120/src/CountSegments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210120/src/LengthOfLastWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210120/src/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210120/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210120/src/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210121/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210121/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210121/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210121/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210121/20210121.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210121/out/production/20210121/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210121/out/production/20210121/CanThreePartsEqualSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210121/out/production/20210121/FindJudge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210121/out/production/20210121/ListBit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210121/out/production/20210121/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210121/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210121/src/CanThreePartsEqualSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210121/src/FindJudge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210121/src/ListBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210122/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210122/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210122/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210122/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210122/20210122.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210122/out/production/20210122/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210122/out/production/20210122/Generate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210122/out/production/20210122/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210122/out/production/20210122/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210122/out/production/20210122/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210122/out/production/20210122/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210122/src/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210122/src/Generate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210122/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210122/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210122/src/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210123/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210123/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210123/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210123/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210123/20210123.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210123/out/production/20210123/BackspaceCompare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210123/out/production/20210123/IsPopOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210123/src/BackspaceCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210123/src/IsPopOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210124/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210124/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210124/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210124/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210124/20210124.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210124/out/production/20210124/EvalRPN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210124/out/production/20210124/IsValid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210124/out/production/20210124/MyCircularQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210124/out/production/20210124/MyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210124/out/production/20210124/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210124/out/production/20210124/ShiftGrid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210124/src/EvalRPN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210124/src/IsValid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210124/src/MyCircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210124/src/MyLinkedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210124/src/ShiftGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210125/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210125/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210125/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210125/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210125/20210125.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210125/out/production/20210125/CalPoints.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210125/out/production/20210125/Joseph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210125/out/production/20210125/MinStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210125/out/production/20210125/MyQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210125/out/production/20210125/MyStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210125/out/production/20210125/RecentCounter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210125/src/CalPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210125/src/CatDogAsylum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210125/src/Joseph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210125/src/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210125/src/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210125/src/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210125/src/RecentCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210126/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210126/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210126/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210126/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210126/20210126.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210126/out/production/20210126/BTNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210126/out/production/20210126/BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210126/out/production/20210126/IncreasingBST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210126/out/production/20210126/MergeTrees.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210126/out/production/20210126/Traversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210126/out/production/20210126/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210126/src/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210126/src/IncreasingBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210126/src/MergeTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210126/src/Traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210127/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210127/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210127/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210127/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210127/20210127.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210127/out/production/20210127/IsBalanced.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210127/out/production/20210127/IsSameTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210127/out/production/20210127/IsSubtree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210127/out/production/20210127/IsSymmetric.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210127/out/production/20210127/LevelOrderTraversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210127/out/production/20210127/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210127/out/production/20210127/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210127/out/production/20210127/WidthOfBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210127/src/IsBalanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210127/src/IsSameTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210127/src/IsSubtree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210127/src/IsSymmetric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210127/src/LevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210127/src/WidthOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/20210128.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/out/production/20210128/BTNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/out/production/20210128/BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/out/production/20210128/ContainsDuplicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/out/production/20210128/Convert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/out/production/20210128/IsCompleteTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/out/production/20210128/IsCompleteTree1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/out/production/20210128/IsLongPressedName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/out/production/20210128/LowestCommonAncestor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/out/production/20210128/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/src/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/src/ContainsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/src/Convert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/src/IsCompleteTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/src/IsCompleteTree1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/src/IsLongPressedName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210128/src/LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210129/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210129/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210129/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210129/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210129/20210129.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210129/out/production/20210129/BuildTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210129/out/production/20210129/HeapDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210129/out/production/20210129/LastStoneWeight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210129/out/production/20210129/ReverseOnlyLetters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210129/out/production/20210129/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210129/src/BuildTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210129/src/LastStoneWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210129/src/ReverseOnlyLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210130/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210130/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210130/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210130/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210130/20210130.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210130/out/production/20210130/Heap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210130/out/production/20210130/MyHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210130/out/production/20210130/Tree2str.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210130/out/production/20210130/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210130/src/Convert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210130/src/MyHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210130/src/Tree2str.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210131/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210131/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210131/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210131/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210131/20210131.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210131/out/production/20210131/InsertSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210131/out/production/20210131/PivotIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210131/out/production/20210131/SortArrayByParity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210131/out/production/20210131/SortedSquares.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210131/out/production/20210131/ThirdMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210131/out/production/20210131/kSmallestPairs$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210131/out/production/20210131/kSmallestPairs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210131/src/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210131/src/PivotIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210131/src/SortArrayByParity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210131/src/SortedSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210131/src/ThirdMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210131/src/kSmallestPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/20210201.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/out/production/20210201/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/out/production/20210201/CompareVersion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/out/production/20210201/HeapSort$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/out/production/20210201/HeapSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/out/production/20210201/InsertSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/out/production/20210201/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/out/production/20210201/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/out/production/20210201/SelectSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/out/production/20210201/ShellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/src/CompareVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/src/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/src/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/src/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/src/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/src/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210201/src/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210202/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210202/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210202/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210202/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210202/20210202.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210202/out/production/20210202/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210202/out/production/20210202/CarFleet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210202/out/production/20210202/PlusOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210202/out/production/20210202/SortColors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210202/src/CarFleet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210202/src/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210202/src/SortColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210203/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210203/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210203/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210203/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210203/20210203.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210203/out/production/20210203/AddBinary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210203/out/production/20210203/BinarySearchTree$BSNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210203/out/production/20210203/BinarySearchTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210203/out/production/20210203/FindClosestElements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210203/out/production/20210203/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210203/out/production/20210203/TwoSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210203/src/AddBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210203/src/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210203/src/FindClosestElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210203/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210203/src/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210204/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210204/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210204/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210204/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210204/20210204.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210204/out/production/20210204/HashMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210204/out/production/20210204/SingleNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210204/src/FirstUniqChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210204/src/HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210204/src/Intersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210204/src/IsIsomorphic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210204/src/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BadKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CopyRandomList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumJewelsInStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirdMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TopKFrequent.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CopyRandomList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1027">
+              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NumJewelsInStones.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="676">
+              <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+              <folding>
+                <element signature="e#636#647#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BadKey.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TopKFrequent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="541">
+              <caret line="28" column="53" lean-forward="true" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ThirdMax.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="41" column="25" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="41" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/SingleNumber.java" />
+        <option value="$PROJECT_DIR$/src/CopyRandomList.java" />
+        <option value="$PROJECT_DIR$/src/NumJewelsInStones.java" />
+        <option value="$PROJECT_DIR$/src/BadKey.java" />
+        <option value="$PROJECT_DIR$/src/TopKFrequent.java" />
+        <option value="$PROJECT_DIR$/src/ThirdMax.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="G:/tools/maven3.2.5" />
+        <option name="userSettingsFile" value="G:\tools\maven3.2.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="699" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="20210206" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20210206" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20210206" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20210206" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BadKey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BadKey" />
+      <module name="20210206" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BadKey" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="736a6ad0-2ab7-4568-aef6-e2bf39dde45c" name="Default Changelist" comment="" />
+      <created>1612593785978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612593785978</updated>
+      <workItem from="1612593788720" duration="9603000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9603000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19667171" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16382253" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4215017" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BadKey.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BadKey.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/SingleNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CopyRandomList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1027">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumJewelsInStones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+          <folding>
+            <element signature="e#636#647#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BadKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TopKFrequent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="28" column="53" lean-forward="true" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirdMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="41" column="25" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="41" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
