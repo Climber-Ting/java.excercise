@@ -19,28 +19,32 @@ import java.util.*;
 public class EvalRPN {
     public static void main(String[] args) {
         String[] str = {"2", "1", "+", "3", "*"};
+        String[] str2={"4","13","5","/","+"};
+        String[] str3={"4","3","-"};
         System.out.println(evalRPN(str));
+        System.out.println(evalRPN(str2));
+        System.out.println(evalRPN(str3));
     }
 
     public static int evalRPN(String[] tokens) {
         Stack<Integer> stack = new Stack<>();
         for (int i = 0; i < tokens.length; i++) {
-            if (tokens[i] == "+") {
+            if (tokens[i].equals("+")) {
                 int a1 = stack.pop();
                 int a2 = stack.pop();
                 stack.push(a1 + a2);
-            } else if (tokens[i] == "-") {
+            } else if (tokens[i].equals("-")) {
                 int a1 = stack.pop();
                 int a2 = stack.pop();
-                stack.push(a1 - a2);
-            } else if (tokens[i] == "*") {
+                stack.push(a2 - a1);
+            } else if (tokens[i].equals("*")) {
                 int a1 = stack.pop();
                 int a2 = stack.pop();
                 stack.push(a1 * a2);
-            } else if (tokens[i] == "/") {
+            } else if (tokens[i].equals("/")) {
                 int a1 = stack.pop();
                 int a2 = stack.pop();
-                stack.push(a1 / a2);
+                stack.push(a2 / a1);
             } else {
                 int a = Integer.parseInt(tokens[i]);
                 stack.push(a);
